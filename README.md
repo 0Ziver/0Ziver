@@ -1,16 +1,15 @@
 # Hello ![Hi](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ## My name is Vladislav A.
-
-
 ### **I'm a C# .Net systems developer.**
+___
 
 I enjoy system development, as well as I have been passionate about creating games on Unity3D. I like to delve into
 low-level code and solve non-standard tasks related to interacting with the target system. I enjoy developing desktop
 applications and optimizing applications. I know a little C++ and continue to study it, as well as I am learning RUST
 because I like this language for its safety. I've also been involved in reverse engineering (as a hobby, nothing
 serious), and it's very exciting.
-
+___
 
 
 ## Skills

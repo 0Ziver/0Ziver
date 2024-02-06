@@ -2,7 +2,6 @@
 
 ## My name is Vladislav A.
 
----
 
 ### **I'm a C# .Net systems developer.**
 

@@ -1,7 +1,6 @@
 # Hello ![Hi](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## My name is Vladislav A.
-### **I'm a C# .Net systems developer.**
+## My name is Vladislav A.  **I'm a C# .Net systems developer.**
 ___
 
 I enjoy system development, as well as I have been passionate about creating games on Unity3D. I like to delve into

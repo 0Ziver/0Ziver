@@ -9,18 +9,12 @@ ___
 
 ## About Me:
 
-I've been programming for **3** years now. <br>
-I am an experienced software developer with a deep understanding of asynchronous and multithreaded programming. <br>
-I have the ability to analyze and determine the necessity of multithreading and apply it effectively, especially in scenarios involving CPU-bound tasks. <br>
-I have experience in identifying and eliminating data races to ensure data integrity and system stability.
-<br>
-I like to delve into *low-level code* and solve **non-standard tasks related to interacting with the target system**.
-<br>
-I enjoy **developing desktop applications** and *optimizing programs*.
+As an experienced software developer with 3 years of experience, <br> I specialize in asynchronous and multithreaded programming. 
+<br>I excel at analyzing and implementing effective multithreading solutions, particularly for CPU-bound tasks. With a focus on data integrity and system stability, I have a track record of identifying and resolving data races.
 
+In addition to my slight proficiency in C++, I am actively learning Rust for its safety features. I also enjoy exploring reverse engineering as a hobby, finding it both challenging and exciting. On the side, I have an experience of working in Unity3D and creating games on this engine.😊
+<br>
 
-I know a little bit C++ and continue to study it. **I'm also learning Rust since I like this language for its safety**.
-I've also been involved in **reverse engineering (as a hobby)**, and it's very exciting. 😊
 
 ## Achievements:
 

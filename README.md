@@ -13,8 +13,6 @@ I've been programming for **3** years now. <br>
 I am an experienced software developer with a deep understanding of asynchronous and multithreaded programming. <br>
 I have the ability to analyze and determine the necessity of multithreading and apply it effectively, especially in scenarios involving CPU-bound tasks. <br>
 I have experience in identifying and eliminating data races to ensure data integrity and system stability.
-I like system development, I'm passionate about creating games on Unity3D.
-I am very fond of developing **desktop applications**.
 <br>
 I like to delve into *low-level code* and solve **non-standard tasks related to interacting with the target system**.
 <br>

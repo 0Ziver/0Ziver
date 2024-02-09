@@ -9,7 +9,7 @@ ___
 
 ## About Me:
 
-As an experienced software developer with 3 years of experience, <br> I specialize in asynchronous and multithreaded programming. 
+As an experienced software developer with 3 years of experience, I specialize in asynchronous and multithreaded programming. 
 <br>I excel at analyzing and implementing effective multithreading solutions, particularly for CPU-bound tasks. With a focus on data integrity and system stability, I have a track record of identifying and resolving data races.
 
 In addition to my slight proficiency in C++, I am actively learning Rust for its safety features. I also enjoy exploring reverse engineering as a hobby, finding it both challenging and exciting. On the side, I have an experience of working in Unity3D and creating games on this engine.😊

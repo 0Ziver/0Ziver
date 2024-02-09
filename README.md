@@ -16,6 +16,8 @@ focus on data integrity and system stability, I have a track record of identifyi
 In addition to my slight proficiency in C++, I am actively learning Rust for its safety features. I also enjoy exploring
 reverse engineering as a hobby, finding it both challenging and exciting. On the side, I have an experience of working
 in Unity3D and creating games on this engine.😊
+
+**English is not my first language.**
 <br>
 
 ## Achievements:
